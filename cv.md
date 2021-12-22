@@ -18,11 +18,12 @@ I just want to become Front-End Developer!
 
 ### **Code example**
 
-'''
+```
 function multiply(a, b){
 return a \* b
 }
-'''
+
+```
 
 ---
 
