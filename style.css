@@ -13,14 +13,17 @@
   box-shadow: 0 0 30px #808080;
   display: flex;
 }
+
 .main-info {
   width: 500px;
 }
+
 p,
 ul,
 ol {
   margin-bottom: 30px;
 }
+
 h1 {
   font-size: 60px;
   padding: 120px 0;
@@ -40,6 +43,7 @@ h3 {
 li {
   margin-left: 16px;
 }
+
 .contacts {
   color: #f7f7f7;
   background-color: gray;
