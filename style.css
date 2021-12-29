@@ -57,4 +57,14 @@ li {
 .contacts {
   color: #f7f7f7;
   background-color: gray;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-information {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  list-style-type: none;
 }
