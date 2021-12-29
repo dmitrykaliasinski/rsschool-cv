@@ -15,7 +15,7 @@ body {
   width: 800px;
   height: 1000px;
   margin: 20px auto;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Noto Serif", serif;
   box-shadow: 0 0 30px #3b3b3b;
   display: flex;
 }
@@ -31,16 +31,18 @@ ol {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 65px;
   padding: 80px 0;
   color: #f7f7f7;
   background-color: gray;
   text-align: center;
   font-variant: small-caps;
-  line-height: 50px;
+  line-height: 60px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 h3 {
+  color: rgb(71, 71, 71);
   font-size: 24px;
   background-color: rgb(214, 213, 213);
   margin-bottom: 30px;
@@ -49,7 +51,7 @@ h3 {
 }
 
 li {
-  margin-left: 16px;
+  margin-left: 18px;
 }
 
 .contacts {
