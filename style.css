@@ -85,8 +85,12 @@ a:hover {
   color: #f7f7f7;
 }
 
-@media (max-width: 786px) {
+/* @media (max-width: 786px) {
   .contacts {
     width: 100%;
   }
+} */
+
+.contacts img {
+  border-radius: 0% 50% 0% 50%;
 }
