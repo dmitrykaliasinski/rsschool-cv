@@ -33,7 +33,7 @@ _Don't have eyt._
 
 ---
 
-### **Aducation and courses**
+### **Education and courses**
 
 1. Gridno state University in name of Y.Kupala. Management and Economy.
 2. RsSchool - STAGE#0.
