@@ -20,7 +20,7 @@ I just want to become Front-End Developer!
 
 ```
 function multiply(a, b){
-return a \* b
+return a * b
 }
 
 ```
@@ -36,7 +36,7 @@ _Don't have eyt._
 ### **Aducation and courses**
 
 1. Gridno state University in name of Y.Kupala. Management and Economy.
-2. RsSchool - _learning now_.
+2. RsSchool - STAGE#0.
 
 ---
 
